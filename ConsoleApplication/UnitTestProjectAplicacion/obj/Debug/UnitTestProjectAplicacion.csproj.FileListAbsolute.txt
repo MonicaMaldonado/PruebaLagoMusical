@@ -1,0 +1,9 @@
+c:\users\analistaprogramador2\documents\visual studio 2015\Projects\ConsoleApplication\UnitTestProjectAplicacion\bin\Debug\UnitTestProjectAplicacion.dll
+c:\users\analistaprogramador2\documents\visual studio 2015\Projects\ConsoleApplication\UnitTestProjectAplicacion\bin\Debug\UnitTestProjectAplicacion.pdb
+c:\users\analistaprogramador2\documents\visual studio 2015\Projects\ConsoleApplication\UnitTestProjectAplicacion\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\analistaprogramador2\documents\visual studio 2015\Projects\ConsoleApplication\UnitTestProjectAplicacion\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\analistaprogramador2\documents\visual studio 2015\Projects\ConsoleApplication\UnitTestProjectAplicacion\obj\Debug\UnitTestProjectAplicacion.csprojResolveAssemblyReference.cache
+c:\users\analistaprogramador2\documents\visual studio 2015\Projects\ConsoleApplication\UnitTestProjectAplicacion\obj\Debug\UnitTestProjectAplicacion.dll
+c:\users\analistaprogramador2\documents\visual studio 2015\Projects\ConsoleApplication\UnitTestProjectAplicacion\obj\Debug\UnitTestProjectAplicacion.pdb
+c:\users\analistaprogramador2\documents\visual studio 2015\Projects\ConsoleApplication\UnitTestProjectAplicacion\bin\Debug\ConsoleApplication.exe
+c:\users\analistaprogramador2\documents\visual studio 2015\Projects\ConsoleApplication\UnitTestProjectAplicacion\bin\Debug\ConsoleApplication.pdb
